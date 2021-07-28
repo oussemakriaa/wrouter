@@ -1,0 +1,9 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    background-color: blue;
+    color: #ffffff;
+    height: 90px;
+}
